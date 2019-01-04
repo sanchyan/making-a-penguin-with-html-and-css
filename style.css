@@ -1,8 +1,8 @@
 .penguin {
     
     --penguin-skin: black;
-    --penguin-belly: gray;
-    --penguin-beak: yellow;
+    --penguin-belly: white;
+    --penguin-beak: orange;
     
     position: relative;
     margin: auto;
